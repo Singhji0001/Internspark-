@@ -1,0 +1,48 @@
+Linked List
+Sample Output
+Plain text
+Linked List: 10 -> 20 -> 30 -> NULL
+Search 20: Found
+After deleting 20:
+10 -> 30 -> NULL
+Short Explanation
+The program inserts three elements into the linked list.
+It searches for element 20, which is found successfully.
+After deleting 20, the updated linked list is displayed.
+2. Stack
+Sample Output
+Plain text
+Stack Elements:
+15
+10
+5
+Search 10: Found
+After Pop:
+10
+5
+Short Explanation
+The stack stores elements using the LIFO (Last In First Out) principle.
+Elements 5, 10, and 15 are pushed into the stack.
+After one pop operation, the top element (15) is removed.
+3. Queue
+Sample Output
+Plain text
+Queue Elements: 1 2 3
+Search 2: Found
+After Dequeue:
+2 3
+Short Explanation
+The queue follows the FIFO (First In First Out) principle.
+Elements 1, 2, and 3 are inserted into the queue.
+After one dequeue operation, the first element (1) is removed.
+4. Binary Search Tree (BST)
+Sample Output
+Plain text
+BST Inorder Traversal: 20 30 40 50 70
+Search 40: Found
+After deleting 30:
+20 40 50 70
+Short Explanation
+The BST stores data in sorted hierarchical form.
+Several nodes are inserted and displayed using inorder traversal.
+After deleting node 30, the tree is updated and displayed again.
